@@ -1,4 +1,7 @@
 
+
+#Function to find optimal first spin when spinning for the showcase on The Price is Right
+#As it turns out, it doesnt matter and all first spins are equally good
 def main():
     opponentTotal = 65
     bestCurrentOption = 5
