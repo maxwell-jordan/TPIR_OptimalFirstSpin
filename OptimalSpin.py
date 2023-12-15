@@ -6,7 +6,7 @@ def main():
     opponentTotal = 65
     bestCurrentOption = 5
     bestRolls = 0
-    currentOption = 60
+    currentOption = 5
     while currentOption < opponentTotal:
         overRolls = currentOption / 5
         underRolls = (opponentTotal - currentOption - 5) / 5
